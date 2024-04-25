@@ -43,8 +43,6 @@
       <div class="main-wrapper main-wrapper-1">
           @include('initial-view.layouts.navbar')
 
-          @include('initial-view.layouts.header')
-
           <div class="main-content">
               <section class="section">
 
